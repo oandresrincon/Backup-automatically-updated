@@ -44,7 +44,7 @@ cd destinationDirectory# <-
 destDirAbsPath=$(pwd)
 
 # [TASK 7]
-cd ..# <-
+cd origAbsPath# <-
 cd targetDirectory# <-
 
 # [TASK 8]
